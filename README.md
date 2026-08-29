@@ -1,1 +1,1 @@
-
+ThermalReporter is an iOS app that tracks an iPhone's thermal state and predicts the subsequent thermal state of the phone using factors such as brightness, low power mode state, and overall battery level as well as the iPhone's true previous thermal state. This app can export data onto your iPhone locally in order for the classifier in the background in order to better predict the thermal state.
