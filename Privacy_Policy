@@ -1,0 +1,100 @@
+# ThermalReporter Privacy Policy
+
+Effective date: 10/10/2026
+
+ThermalReporter is developed by Vishal Ramamurthy. This Privacy Policy explains how the app handles information.
+
+## 1. Information Processed on Your Device
+
+ThermalReporter records device operating information to display thermal conditions and historical charts. Measurements include:
+
+- Date and time of each sample.
+- The thermal state reported by iOS: nominal, fair, serious, or critical.
+- Battery level.
+- Whether the device is charging.
+- Whether Low Power Mode is enabled.
+- Screen brightness when available in the foreground.
+
+The app records iOS thermal-state categories, not an exact temperature measurement.
+
+These measurements are processed and stored locally on your device. ThermalReporter does not automatically send them to us or to an external server.
+
+The app does not require an account or request your name, email address, location, contacts, photos, camera, or microphone.
+
+## 2. How Information Is Used
+
+ThermalReporter uses these measurements to:
+
+- Display your device’s current thermal state.
+- Show historical thermal, battery, and brightness charts.
+- Provide local thermal-state notifications.
+- Generate CSV files when you choose to export your measurements.
+
+The app may record samples during background execution when permitted by iOS. Background monitoring is subject to operating-system restrictions.
+
+The app also stores a local preference indicating whether its welcome notification has already been shown.
+
+## 3. Storage and Retention
+
+Measurements remain in the app’s local storage until the app’s data is removed. The current version does not automatically delete older measurements or provide an in-app delete-history control.
+
+You can remove the app’s local database by deleting the app from your device. Offloading the app may preserve its data.
+
+Exported CSV files are separate copies. Deleting ThermalReporter does not delete files you previously exported or copies held in backups or other services.
+
+Depending on your device settings, app data may be included in operating-system backups. Those backups are managed by you and the backup provider, not by ThermalReporter.
+
+## 4. Exporting Your Data
+
+When you select **Export CSV**, ThermalReporter creates a file containing the recorded measurements and opens the iOS file-export interface.
+
+You choose where to save the file. A destination may be local device storage, iCloud Drive, or another file-storage provider available on your device.
+
+If you choose a cloud service or later share the file, the exported information will be handled by the destination or recipient under its own practices and privacy policy. ThermalReporter does not automatically receive a copy.
+
+The app may create temporary local files when preparing exports. These may remain until removed by the operating system or when the app is deleted.
+
+## 5. Notifications and Controls
+
+ThermalReporter requests permission to display notifications about your device’s thermal state. These notifications are generated locally; the app does not use a remote push-notification server.
+
+You can enable or disable notifications in your device’s Settings. You can also manage Background App Refresh through iOS Settings.
+
+Disabling notifications does not delete previously stored measurements.
+
+## 6. Advertising, Tracking, and Third Parties
+
+ThermalReporter does not contain advertising, third-party analytics SDKs, or cross-app tracking tools. We do not sell or rent your recorded measurements.
+
+The app uses Apple’s system frameworks for local storage, charts, notifications, and file export. Your use of Apple services, backups, or external storage destinations is governed by the applicable provider’s terms and privacy practices.
+
+## 7. Security
+
+ThermalReporter relies on iOS application isolation and device security protections to restrict ordinary access to its local data.
+
+Exported CSV files are not password-protected by the app. Anyone with access to an exported file may be able to read its contents. Protect your device and choose export destinations carefully.
+
+No storage system can guarantee complete security.
+
+## 8. Support Communications
+
+If you contact us, we receive the email address and any information you voluntarily include, such as a description of an issue or an attached export.
+
+We use that information to respond to your request and investigate the issue. We retain support communications only as reasonably necessary for those purposes or to meet applicable legal obligations. Please avoid sending information that is unnecessary for your request.
+
+## 9. Children’s Privacy
+
+The app does not require personal information or transmit device measurements to the developer, regardless of the user’s age.
+
+If you believe a child has provided personal information directly to us through a support communication, contact us so we can address the request.
+
+## 10. Changes to This Policy
+
+We may update this policy when the app’s features or information-handling practices change. We will post the revised policy and update its effective date. Where required, we will provide additional notice or obtain consent.
+
+## 11. Contact
+
+For privacy questions or requests, contact:
+
+Developer's Legal Name: Vishal Ramamurthy
+Email: vishalrama1114@gmail.com
